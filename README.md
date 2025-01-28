@@ -19,8 +19,8 @@ Hi, I am a third-year Computer Science student at Bialystok University of Techno
 
 ### 🧠 Skills
 
-- **Technologies:** JavaScript, TypeScript, HTML5, CSS3, SCSS, SQL
-- **Frameworks & Libraries:** React, Angular, .NET
+- **Technologies:** JavaScript, TypeScript, HTML5, CSS3, SCSS, TailwindCSS, SQL
+- **Frameworks & Libraries:** React, Redux, .NET
 - **Tools:** Git, GitHub, VSC, npm, Jira
 
 
