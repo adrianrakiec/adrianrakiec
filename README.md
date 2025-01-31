@@ -35,7 +35,6 @@ Hi, I am a third-year Computer Science student at Bialystok University of Techno
 - Learning new technologies
 - Sport
 - Psychology
-- Self-improvement
 
 ---
 
